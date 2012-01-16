@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<T3locallang>
+	<meta type="array">
+		<type>database</type>
+		<description>Language labels for database tables/fields belonging to extension 'aud42cmtscr'</description>
+	</meta>
+	<data type="array">
+		<languageKey index="default" type="array">
+			<label index="tx_aud42cmtscr_comments">Lecture Comments</label>
+			<label index="tx_aud42cmtscr_comments.comment">Comment Text</label>
+			<label index="tx_aud42cmtscr_comments.fe_user_uid">Frontend User</label>
+			<label index="tx_aud42cmtscr_comments.status.I.0">Pending</label>
+			<label index="tx_aud42cmtscr_comments.status.I.1">Active</label>
+			<label index="tx_aud42cmtscr_comments.status">Status</label>
+			<label index="tt_content.list_type_pi1">Lecture Comments</label>
+		</languageKey>
+	</data>
+</T3locallang>
